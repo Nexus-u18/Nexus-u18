@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Passionate C Programmer & Tech Enthusiast<br>🎓 B.Tech Student at Manipal University Jaipur<br>💻 Exploring Programming, Problem Solving & Software Development<br>🌱 Currently improving my skills in C, OOPs & DSA<br>⚡ Love building clean projects and learning new technologies<br>🛠️ Interested in Open Source & Real-World Development<br>📚 Consistent learner with a focus on growth and creativity
+🚀 Passionate Java Programmer & Tech Enthusiast<br>🎓 B.Tech Student at Manipal University Jaipur<br>💻 Exploring Programming, Problem Solving & Software Development<br>🌱 Currently improving my skills in C, OOPs & DSA<br>⚡ Love building clean projects and learning new technologies<br>🛠️ Interested in Open Source & Real-World Development<br>📚 Consistent learner with a focus on growth and creativity
 
 
 ## 🌐 Socials:
