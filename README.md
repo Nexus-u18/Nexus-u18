@@ -1,6 +1,3 @@
-
-<!-- ==================== HERO ==================== -->
-
 <div align="center">
 
   <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%" alt="Animated developer banner" />
@@ -18,7 +15,6 @@
   <a href="https://growfied-new-one.vercel.app/">
     <img src="https://img.shields.io/badge/Explore-Growfied-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Growfied" />
   </a>
-
   <img src="https://komarev.com/ghpvc/?username=Nexus-u18&style=for-the-badge&color=blueviolet" alt="Profile views" />
 
 </div>
@@ -78,19 +74,19 @@ const lenin = {
 
 <div align="center">
 
-### 💻 Languages
+**💻 Languages**
 
 <img src="https://skillicons.dev/icons?i=java,python,c,js" alt="Java, Python, C and JavaScript" />
 
-### 🎨 Frontend
+**🎨 Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,vue,react,tailwind,vite" alt="HTML, CSS, Vue, React, Tailwind and Vite" />
 
-### 🔧 Backend & Data
+**🔧 Backend & Data**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB and MySQL" />
 
-### 🛠️ Tools
+**🛠️ Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Git, GitHub, VS Code and IntelliJ IDEA" />
 
@@ -116,28 +112,24 @@ const lenin = {
   <a href="https://growfied-new-one.vercel.app/">
     <img src="https://img.shields.io/badge/Visit_Growfied-Explore_the_Project-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Growfied" />
   </a>
-
-  <br/><br/>
-
   <a href="https://github.com/Nexus-u18/Growfied-New">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColo
-## 📊 `05 / THE GITHUB ARCADE`
-
-<div align="center">
-
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Growfied source code" />
+  </a>
 
 </div>
+
+---
+
 ## 📊 `05 / THE GITHUB ARCADE`
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nexus-u18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nexus-u18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexus-u18&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexus-u18&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <br/>
 
-  <br/><br/>
-
-  <br/><br/>
+  <img height="180" src="https://streak-stats.demolab.com?user=Nexus-u18&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -147,7 +139,7 @@ const lenin = {
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/Nexus-u18/Nexus-u18/output/github-snake-dark.svg" width="100%" alt="Contribution snake animation" />
 
   <sub>One commit at a time. One problem at a time. Always improving.</sub>
 
@@ -162,9 +154,7 @@ const lenin = {
   <a href="https://github.com/Nexus-u18">
     <img src="https://img.shields.io/badge/GitHub-Nexus--u18-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-
-  <!-- Replace this URL with your actual LinkedIn profile -->
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/lenin-kamboj-3a707b376/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 
