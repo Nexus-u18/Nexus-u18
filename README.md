@@ -124,12 +124,9 @@ const lenin = {
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nexus-u18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nexus-u18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexus-u18&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-  <br/>
-
-  <img height="180" src="https://streak-stats.demolab.com?user=Nexus-u18&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
