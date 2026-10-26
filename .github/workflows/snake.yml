@@ -14,13 +14,111 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
-        env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake-dark.svg?palette=github-dark
+      - name: Generate snake animation
+        run: |
+          mkdir -p dist
+          cat > gen_snake.py << 'PYEOF'
+          import random, os
+          from collections import deque
+
+          random.seed(7)
+          COLS, ROWS, P, S = 53, 7, 15, 12
+          dt = 0.045
+          PAD = 10
+          FILL = 0.70
+          colors = ["#0e4429", "#006d32", "#26a641", "#39d353"]
+          empty = "#161b22"
+          cells = [(c, r) for c in range(COLS) for r in range(ROWS)]
+          n = len(cells)
+
+          filled = set(random.sample(cells, round(n * FILL)))
+          level = {cell: (random.choices([0, 1, 2, 3], weights=[25, 30, 27, 18])[0] if cell in filled else None) for cell in cells}
+
+          BODY = 5
+          remaining = set(filled)
+          start = (0, 3)
+          trail = [start]
+          eat_step = {}
+          if start in remaining:
+              remaining.discard(start)
+              eat_step[start] = 0
+          dirs = [(1, 0), (0, 1), (0, -1), (-1, 0)]
+          last_dir = (1, 0)
+
+          def bfs(src, blocked, prefer):
+              prev = {src: None}
+              q = deque([src])
+              order = [prefer] + [d for d in dirs if d != prefer]
+              while q:
+                  cur = q.popleft()
+                  if cur in remaining and cur != src:
+                      path = []
+                      while cur != src:
+                          path.append(cur)
+                          cur = prev[cur]
+                      return path[::-1]
+                  for d in order:
+                      nx = (cur[0] + d[0], cur[1] + d[1])
+                      if 0 <= nx[0] < COLS and 0 <= nx[1] < ROWS and nx not in prev and nx not in blocked:
+                          prev[nx] = cur
+                          q.append(nx)
+              return None
+
+          while remaining:
+              head = trail[-1]
+              blocked = set(trail[-(BODY - 1):-1]) if len(trail) > 1 else set()
+              path = bfs(head, blocked, last_dir) or bfs(head, set(), last_dir)
+              for nxt in path:
+                  last_dir = (nxt[0] - trail[-1][0], nxt[1] - trail[-1][1])
+                  trail.append(nxt)
+                  if nxt in remaining:
+                      remaining.discard(nxt)
+                      eat_step[nxt] = len(trail) - 1
+
+          L = len(trail) - 1
+          T = (L + BODY + 12) * dt
+
+          def center(c, r):
+              return PAD + c * P + S / 2, PAD + r * P + S / 2
+
+          W = PAD * 2 + COLS * P - (P - S)
+          H = PAD * 2 + ROWS * P - (P - S)
+          out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">']
+
+          for (c, r) in cells:
+              x, y = PAD + c * P, PAD + r * P
+              lv = level[(c, r)]
+              if lv is None:
+                  out.append(f'<rect x="{x}" y="{y}" width="{S}" height="{S}" rx="2" fill="{empty}"/>')
+              else:
+                  base = colors[lv]
+                  k = (eat_step[(c, r)] * dt) / T
+                  out.append(
+                      f'<rect x="{x}" y="{y}" width="{S}" height="{S}" rx="2" fill="{base}">'
+                      f'<animate attributeName="fill" calcMode="discrete" dur="{T:.2f}s" repeatCount="indefinite" '
+                      f'values="{base};{empty};{base}" keyTimes="0;{k:.5f};0.995"/></rect>'
+                  )
+
+          path = "M" + " L".join(f"{center(c, r)[0]:.1f},{center(c, r)[1]:.1f}" for c, r in trail)
+          sizes = [12, 11, 10, 9, 8]
+          fills = ["#c084fc", "#a855f7", "#9333ea", "#7e22ce", "#6b21a8"]
+          for k in reversed(range(BODY)):
+              k0 = (k * dt) / T
+              k1 = (k * dt + L * dt) / T
+              s = sizes[k]
+              out.append(
+                  f'<rect x="{-s/2}" y="{-s/2}" width="{s}" height="{s}" rx="4" fill="{fills[k]}">'
+                  f'<animateMotion dur="{T:.2f}s" repeatCount="indefinite" calcMode="linear" '
+                  f'keyPoints="0;0;1;1" keyTimes="0;{k0:.5f};{k1:.5f};1" path="{path}"/></rect>'
+              )
+          out.append('</svg>')
+
+          os.makedirs("dist", exist_ok=True)
+          with open("dist/github-snake-dark.svg", "w", encoding="utf-8") as f:
+              f.write("\n".join(out))
+          print("steps", L, "filled", len(filled), "of", n)
+          PYEOF
+          python3 gen_snake.py
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
