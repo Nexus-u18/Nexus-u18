@@ -125,17 +125,6 @@ const lenin = {
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Nexus-u18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    width="49%"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexus-u18&layout=compact&theme=tokyonight&hide_border=true"
-    width="49%"
-    alt="Most Used Languages"
-  />
 
 </div>
 ## 📊 `05 / THE GITHUB ARCADE`
