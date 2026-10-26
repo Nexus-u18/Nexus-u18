@@ -1,3 +1,5 @@
+<!-- ==================== HERO ==================== -->
+
 <div align="center">
 
   <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%" alt="Animated developer banner" />
@@ -15,17 +17,17 @@
   <a href="https://growfied-new-one.vercel.app/">
     <img src="https://img.shields.io/badge/Explore-Growfied-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Growfied" />
   </a>
+
   <img src="https://komarev.com/ghpvc/?username=Nexus-u18&style=for-the-badge&color=blueviolet" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👾 `01 / THE HUMAN BEHIND THE CODE`
+## 👾 01 / THE HUMAN BEHIND THE CODE
 
 <img align="right" width="190" src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" alt="Developer animation" />
 
-```js
 const lenin = {
   education: "CS @ MUJ",
   interests: [
@@ -38,18 +40,15 @@ const lenin = {
   mindset: "Learn by building",
   status: "Turning ideas into projects 🚀"
 };
-```
-
-- 🎓 Computer Science undergraduate at **Manipal University Jaipur**
-- 🛠️ I learn best by building, experimenting, and debugging.
-- 🧠 Interested in problem-solving and developing useful software.
-- 🌱 Always exploring something new and improving my fundamentals.
-
+🎓 Computer Science undergraduate at **Manipal University Jaipur**
+🛠️ I learn best by building, experimenting, and debugging.
+🧠 Interested in problem-solving and developing useful software.
+🌱 Always exploring something new and improving my fundamentals.
 <br clear="right"/>
 
 ---
 
-## 🏆 `02 / QUESTS COMPLETED`
+## 🏆 02 / QUESTS COMPLETED
 
 <table>
   <tr>
@@ -70,23 +69,23 @@ const lenin = {
 
 ---
 
-## ⚙️ `03 / MY TOOLKIT`
+## ⚙️ 03 / MY TOOLKIT
 
 <div align="center">
 
-**💻 Languages**
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,c,js" alt="Java, Python, C and JavaScript" />
 
-**🎨 Frontend**
+### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,vue,react,tailwind,vite" alt="HTML, CSS, Vue, React, Tailwind and Vite" />
 
-**🔧 Backend & Data**
+### 🔧 Backend & Data
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB and MySQL" />
 
-**🛠️ Tools**
+### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Git, GitHub, VS Code and IntelliJ IDEA" />
 
@@ -94,7 +93,7 @@ const lenin = {
 
 ---
 
-## 🚀 `04 / CURRENTLY BUILDING`
+## 🚀 04 / CURRENTLY BUILDING
 
 <div align="center">
 
@@ -112,34 +111,37 @@ const lenin = {
   <a href="https://growfied-new-one.vercel.app/">
     <img src="https://img.shields.io/badge/Visit_Growfied-Explore_the_Project-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Growfied" />
   </a>
+
+  <br/><br/>
+
   <a href="https://github.com/Nexus-u18/Growfied-New">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Growfied source code" />
-  </a>
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColo
+## 📊 05 / THE GITHUB ARCADE
+
+<div align="center">
+
+</div>
+## 📊 05 / THE GITHUB ARCADE
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nexus-u18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexus-u18&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+  <br/><br/>
+
+  <br/><br/>
 
 </div>
 
 ---
 
-## 📊 `05 / THE GITHUB ARCADE`
+## 🐍 06 / EVERY COMMIT COUNTS
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nexus-u18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexus-u18&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-  <br/>
-
-  <img height="180" src="https://streak-stats.demolab.com?user=Nexus-u18&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## 🐍 `06 / EVERY COMMIT COUNTS`
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/Nexus-u18/Nexus-u18/output/github-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" width="100%" alt="Contribution snake animation" />
 
   <sub>One commit at a time. One problem at a time. Always improving.</sub>
 
@@ -147,14 +149,16 @@ const lenin = {
 
 ---
 
-## 🌐 `07 / LET'S CONNECT`
+## 🌐 07 / LET'S CONNECT
 
 <div align="center">
 
   <a href="https://github.com/Nexus-u18">
     <img src="https://img.shields.io/badge/GitHub-Nexus--u18-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/lenin-kamboj-3a707b376/">
+
+  <!-- Replace this URL with your actual LinkedIn profile -->
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 
