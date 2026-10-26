@@ -1,57 +1,183 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Lenin</h1>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nexus-u18&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="nexus-u18's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=nexus-u18&theme=nightowl&hide_border=true&cache_seconds=86400" alt="nexus-u18's GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexus-u18&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nexus-u18&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Lenin's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=nexus-u18&theme=nightowl&radius=10" alt="nexus-u18's Activity Graph" />
-</p>
-
-## 🛠️ Languages & Tools
-
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
-
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<!-- ==================== HERO ==================== -->
 
 <div align="center">
-  <!---->
+
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%" alt="Animated developer banner" />
+
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Lenin+Kamboj+%F0%9F%91%BE;CS+Undergrad+%40+Manipal+University+Jaipur;Building+ideas+into+real+projects;Learning.+Building.+Improving." alt="Typing SVG" />
+
+  <p>
+    <b>💻 Computer Science Student</b> &nbsp; • &nbsp;
+    <b>⚡ Developer in Progress</b> &nbsp; • &nbsp;
+    <b>🚀 Builder</b>
+  </p>
+
+  <a href="https://growfied-new-one.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore-Growfied-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Growfied" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=Nexus-u18&style=for-the-badge&color=blueviolet" alt="Profile views" />
+
 </div>
 
-<p align="center"><sub>Lenin  · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+---
+
+## 👾 `01 / THE HUMAN BEHIND THE CODE`
+
+<img align="right" width="190" src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" alt="Developer animation" />
+
+```js
+const lenin = {
+  education: "CS @ MUJ",
+  interests: [
+    "Software Development",
+    "Data Structures & Algorithms",
+    "Full-Stack Development",
+    "Building Useful Products"
+  ],
+  currentlyLearning: "Java & Full-Stack Development",
+  mindset: "Learn by building",
+  status: "Turning ideas into projects 🚀"
+};
+```
+
+- 🎓 Computer Science undergraduate at **Manipal University Jaipur**
+- 🛠️ I learn best by building, experimenting, and debugging.
+- 🧠 Interested in problem-solving and developing useful software.
+- 🌱 Always exploring something new and improving my fundamentals.
+
+<br clear="right"/>
+
+---
+
+## 🏆 `02 / QUESTS COMPLETED`
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🥈 IIT Patna Hackathon</h3>
+      <b>2nd Place</b>
+      <br/>
+      <sub>Built under pressure. Learned through execution.</sub>
+    </td>
+    <td width="50%" align="center">
+      <h3>🎯 IIIT Delhi CiPD Ideathon</h3>
+      <b>Finalist</b>
+      <br/>
+      <sub>Ideas, collaboration, and problem-solving.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚙️ `03 / MY TOOLKIT`
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js" alt="Java, Python, C and JavaScript" />
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,vue,react,tailwind,vite" alt="HTML, CSS, Vue, React, Tailwind and Vite" />
+
+### 🔧 Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB and MySQL" />
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Git, GitHub, VS Code and IntelliJ IDEA" />
+
+</div>
+
+---
+
+## 🚀 `04 / CURRENTLY BUILDING`
+
+<div align="center">
+
+  <h3>🌱 Growfied</h3>
+
+  <p>
+    <b>A student-focused platform for career growth, skills, and opportunities.</b>
+  </p>
+
+  <p>
+    Building toward a space where students can discover opportunities,
+    develop skills, and keep growing.
+  </p>
+
+  <a href="https://growfied-new-one.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit_Growfied-Explore_the_Project-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Growfied" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/Nexus-u18/Growfied-New">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Growfied source code" />
+  </a>
+
+</div>
+
+---
+
+## 📊 `05 / THE GITHUB ARCADE`
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nexus-u18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexus-u18&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+  <br/><br/>
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=Nexus-u18&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nexus-u18&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+## 🐍 `06 / EVERY COMMIT COUNTS`
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+
+  <sub>One commit at a time. One problem at a time. Always improving.</sub>
+
+</div>
+
+---
+
+## 🌐 `07 / LET'S CONNECT`
+
+<div align="center">
+
+  <a href="https://github.com/Nexus-u18">
+    <img src="https://img.shields.io/badge/GitHub-Nexus--u18-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+
+  <!-- Replace this URL with your actual LinkedIn profile -->
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+
+  <br/><br/>
+
+  <i>💭 "First make it work. Then make it better."</i>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer" width="100%" alt="Footer banner" />
+
+</div>
