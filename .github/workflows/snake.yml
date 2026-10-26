@@ -23,7 +23,7 @@ jobs:
 
           random.seed(7)
           COLS, ROWS, P, S = 53, 7, 15, 12
-          dt = 0.045
+          dt = 0.08
           PAD = 10
           FILL = 0.70
           colors = ["#0e4429", "#006d32", "#26a641", "#39d353"]
