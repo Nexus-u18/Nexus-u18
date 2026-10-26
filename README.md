@@ -120,13 +120,24 @@ const lenin = {
   <br/><br/>
 
   <a href="https://github.com/Nexus-u18/Growfied-New">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Growfied source code" />
-  </a>
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColo
+## 📊 `05 / THE GITHUB ARCADE`
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Nexus-u18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    width="49%"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexus-u18&layout=compact&theme=tokyonight&hide_border=true"
+    width="49%"
+    alt="Most Used Languages"
+  />
 
 </div>
-
----
-
 ## 📊 `05 / THE GITHUB ARCADE`
 
 <div align="center">
