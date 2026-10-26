@@ -137,11 +137,7 @@ const lenin = {
 
   <br/><br/>
 
-  <img width="70%" src="https://streak-stats.demolab.com?user=Nexus-u18&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
   <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nexus-u18&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
 
 </div>
 
